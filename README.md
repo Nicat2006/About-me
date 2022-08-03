@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicatAndroid
+- 👋 Hi, I’m @Nicat2006
 - 👀 I’m interested in java,android programming
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on ...
